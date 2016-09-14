@@ -1,0 +1,8 @@
+В ХМЛ разметку активити между нужными компонентами добавим ЭТО:
+ 
+ <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/grey_light"
+        android:layout_marginLeft="72dp">
+    </View>
